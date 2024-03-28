@@ -1,0 +1,48 @@
+.a{
+    /* justify-content: center; */
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.global{
+    display: flex;
+    width: 80%;
+    justify-content: center;
+    height: 540px;
+}
+.card1{
+    background-image: url('Group.png');
+    background-size: cover;
+    border-radius: 10px;
+    width: 450px;
+    margin-right: 2%;
+}
+.card2{
+    background-image: url('Group2.png');
+}
+.card3{
+    background-image: url('Group3.png');
+}
+.card4{
+    background-image: url('Group4.png');
+}
+h3{
+    font-weight: 600;
+    font-family: sans-serif;
+    margin-left: 6%;
+}
+p{
+    font-weight: 600;
+    font-family: sans-serif;
+    margin-left: 6%;
+}
+.C{
+    background-color: red;
+    height: 173PX;
+    background-size: cover;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.N{
+    width: 40%;
+}

@@ -1,0 +1,115 @@
+section{
+    margin-top: -30rem;
+    margin-left: 35rem;
+}
+.form-box{
+    position: relative;
+    width: 600px;
+    height: 450px;
+    background-color: rgba(226, 214, 194, 0.3);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 3rem;
+    display: flex;
+    justify-content: center;
+}
+.i{
+    color: #C7A878;
+}
+.input-box td{
+    position: relative;
+    width: 250px;
+    padding-left:6%;    
+}
+td label{
+    
+    margin-left:11%;
+}
+.input-box label{
+    position: absolute;
+    transform: translateY(-50%);
+    color: #fff;
+    font-size: 1rem;
+    pointer-events: none;    
+}
+.input-box td input{
+    width: 100%;
+    height: 50px;
+    background: transparent;
+    border: none;
+    outline: none;
+    margin-top: -20px;
+    font-size: 1rem;
+    border-bottom:2px solid #C7A878;
+}
+
+.int{
+    margin-top: 2px;
+    margin-left: 74%;
+    color: #C7A878;
+    font-weight: 400;
+    font-size: 1rem;
+}
+.im{
+    width: 15px;
+    height: 15px;
+}
+.inpt1{
+    margin-top: -14px;
+    width: 319PX;
+    height: 47PX;
+    border-radius: 31px;
+    background: #C7A878;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 700;
+}
+.sin{
+    margin: 10px;
+    margin-left: 33%;
+    color: #c7a778;
+    font-size: 1rem;
+    font-weight: 600;
+}
+.or{
+    color: black;
+}
+img{
+    width: 35%;
+    height: 100vh;
+    margin-left:0% ;
+}
+.inpt2{
+    margin-top: -5%;
+    display: flex;
+    justify-content: center;
+}
+.inpt4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 37px;
+    border-radius: 31px;
+    width: 101px;
+    border: none;
+    background-color: #fff;
+    margin-left: 10%;
+}
+.inpt4 span{
+    font-weight: 600;
+    font-size: 13px;
+}
+.inpt4 .im {
+    margin-left: 5px;
+}
+.p{
+    margin-left: 18%;
+}
+
